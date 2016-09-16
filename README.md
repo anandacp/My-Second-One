@@ -1,2 +1,1 @@
-# My-Second-One
-Second One
+Genearally giving my best shot at programming
